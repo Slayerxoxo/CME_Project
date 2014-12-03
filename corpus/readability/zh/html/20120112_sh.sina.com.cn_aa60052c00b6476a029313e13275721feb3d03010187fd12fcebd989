@@ -1,0 +1,236 @@
+<html><body><div><body id="readabilityBody"><p> \n');}var &#13;
+time = 500;var h = 30;function addCount(){document.getElementById("topBox").style.display = &#13;
+"none";document.getElementById("fixheight").style.display = "none";if(time&gt;0){time--;h = h+10;}else{	&#13;
+return;	}if(h&gt;120){&#13;
+h=30;return;}document.getElementById("ads").style.display = "";document.getElementById&#13;
+("ads").style.height = h+"px";setTimeout("addCount()",20);}window.onload = function showAds(){setTimeout&#13;
+("noneAds()",5000);}&#13;
+function showAds1(){&#13;
+	addCount();&#13;
+	setTimeout("noneAds()",5000);&#13;
+}&#13;
+&#13;
+&#13;
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+&#13;
+
+</p> 
+ 
+ 
+ 
+<noscript> 
+<div><img src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt=""/></div> 
+</noscript> 
+
+
+
+
+ 
+
+
+
+
+
+
+&#13;
+
+<div class="wrapper">&#13;
+
+	<p id="fixheight"/>&#13;
+	<div class="cont">&#13;
+		&#13;
+		 &#13;
+		 &#13;
+		&#13;
+&#13;
+		<p class="spc10"/>&#13;
+		<div class="art_cont">&#13;
+			<div class="artpl">&#13;
+				<div class="art_nav2">&#13;
+					<div class="logo"><a href="http://sh.sina.com.cn" target="_blank"><img src="http://sh.sinaimg.cn/200912shanghai/page_a_53.gif" border="0"/></a></div>&#13;
+					&#13;
+
+				</div>&#13;
+				<div class="txt">&#13;
+					<h1>中国巴菲特离婚 妻子要求分割20亿家产</h1>&#13;
+					<h2>http://www.sina.com.cn    2012年01月12日09:30   &#13;
+<a href="/home/coraline/Documents/Corpus/readability/corpus/zh/html/20120112_sh.sina.com.cn_aa60052c00b6476a029313e13275721feb3d03010187fd12fcebd989">&#13;
+中国网 </a> </h2>&#13;
+
+<p>　　中证万融投资集团有限公司董事长赵丙贤，因以股票起家又主做投资银行业务，被业界称为“中国巴菲特”。昨天记者获悉，其妻子陆娟向法院提起离婚诉讼，并要求分割夫妻共同财产，孩子归自己抚养。这起财富总数超过20个亿的天价离婚案，诉讼过程一波三折，目前已被从朝阳法院转送至通州法院，后者尚未发出立案通知。</p>&#13;
+
+<p>　　富豪被指婚外情家庭暴力</p>&#13;
+
+<p>　　陆娟提交的起诉书显示，她与赵丙贤1988年结婚，双方育有一个女儿和一个儿子。1992年两人分别从部队转业到地方，并共同开办了第一个公司，此后发展从小到大，控股、参股了几家上市公司，创造并积累了可观的财富。而赵丙贤也因投资屡获成功被称为中国的“巴菲特”。但陆娟说，社会的风气和公司发展的压力也严重影响了丈夫，赵丙贤自有钱后回家越来越少，发生婚外情，并对她和孩子实施家庭暴力，导致她两次报警。</p>&#13;
+
+<p>　　男方“消失”致离婚一波三折</p>&#13;
+
+<p>　　2010年7月，陆娟在居住地海淀区向法院提起离婚诉讼，同年9月10日，法院第一次开庭，赵丙贤以出差为由未到庭应诉，由于法律规定离婚诉讼夫妻双方必须到场，因此庭审无法进行。于是法院第二次发出开庭传票，确定开庭时间为同年10月11日，但赵丙贤又以被诊断为“严重肝病”为由，申请延期审理。而第三次开庭时，赵丙贤称“出差”未出庭，审理无法进行，陆娟无奈撤诉。</p>&#13;
+
+<p>　　2011年8月9日，陆娟第二次在户籍所在地朝阳法院提起离婚诉讼，法院因联系不上赵丙贤进行了公告送达。此后赵丙贤虽然到庭领取了开庭传票，但在开庭当天又没有到庭。同月25日，陆娟因在一年前拿走公司保险箱，以涉嫌“抢夺公司财物罪”被朝阳分局刑事拘留近40天，后因“证据不足”被取保候审。而这起天价离婚案的诉讼也是一波三折，朝阳法院受理此案后3个月，又将案件移送到通州法院。</p>&#13;
+                                        &#13;
+
+<p align="center">&#13;
+&#13;
+ &#13;
+</p>&#13;
+
+				<p class="spc10"/>&#13;
+<p id="weibo_box_1"/>&#13;
+
+&#13;
+
+<p align="center">&#13;
+</p>&#13;
+
+					<p>   <font class="title12">    声明：新浪网登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。</font></p>&#13;
+
+					&#13;
+
+				</div>&#13;
+				&#13;
+				<p class="spc10"/>&#13;
+
+				<p class="iframepart1">&#13;
+					&#13;
+				</p>&#13;
+
+				<p class="spc10"/>&#13;
+
+				<p class="iframepart2">&#13;
+					&#13;
+				</p>&#13;
+
+				<p class="spc10"/>&#13;
+
+		        <div align="center">&#13;
+	                <a href="http://count.chanet.com.cn/click.cgi?a=328932&amp;d=254148&amp;u=&amp;e=" target="_blank"><img src="http://file.chanet.com.cn/image.cgi?a=328932&amp;d=254148&amp;u=&amp;e=" border="0"/></a>&#13;
+                        </div>&#13;
+			&#13;
+			&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+
+			&#13;
+                        <p class="spc10"/>&#13;
+&#13;
+<p id="pic">&#13;
+ &#13;
+&#13;
+&#13;
+&#13;
+</p>&#13;
+
+&#13;
+<p id="ic">&#13;
+&#13;
+</p>&#13;
+&#13;
+<p id="hd">&#13;
+&#13;
+</p>&#13;
+&#13;
+			<p class="spc10"/>&#13;
+			&#13;
+
+			<a href="http://count.chanet.com.cn/click.cgi?a=328932&amp;d=150532&amp;u=&amp;e=" target="_blank"><img src="http://file.chanet.com.cn/image.cgi?a=328932&amp;d=150532&amp;u=&amp;e=" border="0"/></a>&#13;
+			</div>&#13;
+
+			<div class="artpr">&#13;
+				 &#13;
+
+&#13;
+&#13;
+ &#13;
+
+&#13;
+				&#13;
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+
+&#13;
+&#13;
+&#13;
+&#13;
+
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+&#13;
+				</p>&#13;
+
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+				<p>&#13;
+
+										 &#13;
+
+&#13;
+			&#13;
+
+				</p>&#13;
+
+&#13;
+
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+				<div>&#13;
+
+					<a href="http://count.chanet.com.cn/click.cgi?a=328932&amp;d=83558&amp;u=&amp;e=" target="_blank"><img src="http://file.chanet.com.cn/image.cgi?a=328932&amp;d=83558&amp;u=&amp;e=" border="0"/></a>&#13;
+
+				</div>&#13;
+				<p class="spc10"/>&#13;
+				<p class="prbtopline"/>&#13;
+
+			</div>&#13;
+			<p class="split"/>&#13;
+		</div>&#13;
+		<p class="botlinepart"/>&#13;
+
+	</div>&#13;
+	&#13;
+	&#13;
+
+	&#13;
+	&#13;
+	&#13;
+	&#13;
+</div>&#13;
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<noscript> 
+	<img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&amp;cg=0" alt=""/> 
+</noscript> 
+
+&#13;
+</body></div></body></html>

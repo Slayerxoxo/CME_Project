@@ -1,0 +1,230 @@
+<html><body><div><body id="readabilityBody"><p> \n');}var &#13;
+time = 500;var h = 30;function addCount(){document.getElementById("topBox").style.display = &#13;
+"none";document.getElementById("fixheight").style.display = "none";if(time&gt;0){time--;h = h+10;}else{	&#13;
+return;	}if(h&gt;120){&#13;
+h=30;return;}document.getElementById("ads").style.display = "";document.getElementById&#13;
+("ads").style.height = h+"px";setTimeout("addCount()",20);}window.onload = function showAds(){setTimeout&#13;
+("noneAds()",5000);}&#13;
+function showAds1(){&#13;
+	addCount();&#13;
+	setTimeout("noneAds()",5000);&#13;
+}&#13;
+&#13;
+&#13;
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+&#13;
+
+</p> 
+ 
+ 
+ 
+<noscript> 
+<div><img src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt=""/></div> 
+</noscript> 
+
+
+
+
+ 
+
+
+
+
+
+
+&#13;
+
+<div class="wrapper">&#13;
+
+	<p id="fixheight"/>&#13;
+	<div class="cont">&#13;
+		&#13;
+		 &#13;
+		 &#13;
+		&#13;
+&#13;
+		<p class="spc10"/>&#13;
+		<div class="art_cont">&#13;
+			<div class="artpl">&#13;
+				<div class="art_nav2">&#13;
+					<div class="logo"><a href="http://sh.sina.com.cn" target="_blank"><img src="http://sh.sinaimg.cn/200912shanghai/page_a_53.gif" border="0"/></a></div>&#13;
+					&#13;
+
+				</div>&#13;
+				<div class="txt">&#13;
+					<h1>最牛工资单被证属实 人均工资30万</h1>&#13;
+					<h2>http://www.sina.com.cn    2012年01月12日15:57   &#13;
+<a href="/home/coraline/Documents/Corpus/readability/corpus/zh/html/20120112_sh.sina.com.cn_500d5839bd615b23f11654f9800eae2aa3007dd98ac2bb58cc91155b">&#13;
+凤凰网 </a> </h2>&#13;
+
+<p>　　近日有媒体曝光深圳最牛工资单一事，引发外界的高度关注。大家都在质疑为什么会时至今日才公告天下的同时，更为审计委如何处理这件事感到紧张！据悉，最牛工资单中罗列的员工人均年薪30万，巨额数字让不少百姓为之汗颜！</p>&#13;
+
+<p>　　“最牛工资单”曝光之后，国家审计局介入调查，这项专门审计日前完成。据披露的审计报告显示，媒体曝光的“天价工资”数额属实，该中心2009年和2010年分别发放税前薪酬总额1965.57万元和1834.33万元，人均32.76万元和30.57万元。其中，主任层级(处级)、科级及一般员工年均税前薪酬发放额分别为63.53万元、35.87万元和27.27万元，其中，最低22.93万元、最高74万元。</p>&#13;
+
+<p>　　记者昨日点击租赁中心官方网站发现，该网站已经停用。记者了解到，作为深圳住宅租赁管理服务中心直属深圳市住房建设局管理，是自筹经费类事业单位，承担着深圳市本级政策性住房及保障性住房的租赁、维修、管理等职责。</p>&#13;
+                                        &#13;
+
+<p align="center">&#13;
+&#13;
+ &#13;
+</p>&#13;
+
+				<p class="spc10"/>&#13;
+<p id="weibo_box_1"/>&#13;
+
+&#13;
+
+<p align="center">&#13;
+</p>&#13;
+
+					<p>   <font class="title12">    声明：新浪网登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。</font></p>&#13;
+
+					&#13;
+
+				</div>&#13;
+				&#13;
+				<p class="spc10"/>&#13;
+
+				<p class="iframepart1">&#13;
+					&#13;
+				</p>&#13;
+
+				<p class="spc10"/>&#13;
+
+				<p class="iframepart2">&#13;
+					&#13;
+				</p>&#13;
+
+				<p class="spc10"/>&#13;
+
+		        <div align="center">&#13;
+	                <a href="http://count.chanet.com.cn/click.cgi?a=328932&amp;d=254148&amp;u=&amp;e=" target="_blank"><img src="http://file.chanet.com.cn/image.cgi?a=328932&amp;d=254148&amp;u=&amp;e=" border="0"/></a>&#13;
+                        </div>&#13;
+			&#13;
+			&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+
+			&#13;
+                        <p class="spc10"/>&#13;
+&#13;
+<p id="pic">&#13;
+ &#13;
+&#13;
+&#13;
+&#13;
+</p>&#13;
+
+&#13;
+<p id="ic">&#13;
+&#13;
+</p>&#13;
+&#13;
+<p id="hd">&#13;
+&#13;
+</p>&#13;
+&#13;
+			<p class="spc10"/>&#13;
+			&#13;
+
+			<a href="http://count.chanet.com.cn/click.cgi?a=328932&amp;d=150532&amp;u=&amp;e=" target="_blank"><img src="http://file.chanet.com.cn/image.cgi?a=328932&amp;d=150532&amp;u=&amp;e=" border="0"/></a>&#13;
+			</div>&#13;
+
+			<div class="artpr">&#13;
+				 &#13;
+
+&#13;
+&#13;
+ &#13;
+
+&#13;
+				&#13;
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+
+&#13;
+&#13;
+&#13;
+&#13;
+
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+&#13;
+				</p>&#13;
+
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+				<p>&#13;
+
+										 &#13;
+
+&#13;
+			&#13;
+
+				</p>&#13;
+
+&#13;
+
+				<p class="spc10"/>&#13;
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+
+				<p class="iframestyle2">&#13;
+					&#13;
+				</p>&#13;
+				<p class="spc10"/>&#13;
+				<div>&#13;
+
+					<a href="http://count.chanet.com.cn/click.cgi?a=328932&amp;d=83558&amp;u=&amp;e=" target="_blank"><img src="http://file.chanet.com.cn/image.cgi?a=328932&amp;d=83558&amp;u=&amp;e=" border="0"/></a>&#13;
+
+				</div>&#13;
+				<p class="spc10"/>&#13;
+				<p class="prbtopline"/>&#13;
+
+			</div>&#13;
+			<p class="split"/>&#13;
+		</div>&#13;
+		<p class="botlinepart"/>&#13;
+
+	</div>&#13;
+	&#13;
+	&#13;
+
+	&#13;
+	&#13;
+	&#13;
+	&#13;
+</div>&#13;
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<noscript> 
+	<img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&amp;cg=0" alt=""/> 
+</noscript> 
+
+&#13;
+</body></div></body></html>

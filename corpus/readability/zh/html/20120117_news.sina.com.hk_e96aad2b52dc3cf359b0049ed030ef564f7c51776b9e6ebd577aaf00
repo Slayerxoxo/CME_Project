@@ -1,0 +1,133 @@
+<html><body><div><div class="left contentPageContentHeadline">
+<p class="left">
+<select id="news_select" name="news_select"><optgroup label="  ">
+<option value="/">請選擇 01月17日 港聞</option>
+</optgroup>
+<optgroup label=" 今日重點 ">
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551912/1.html">女教師錯愛賤警</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551911/1.html">　舉報如意「狼」君免害人</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551910/1.html">　議員籲事主驗傷留證據</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551904/1.html">山寨奶粉借屍還魂</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551903/1.html">　買原裝行貨認清港代理資料</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551902/1.html">　國產信譽破產內地人湧港搶購</option>
+<option value="http://www2.news.sina.com.hk/news/1586/3/1/2551909/1.html">華使館冷漠 脫險港人轟中國之恥</option>
+<option value="http://www2.news.sina.com.hk/news/1586/3/1/2551635/1.html">　港人中途上船 未參與演習</option>
+<option value="http://www2.news.sina.com.hk/news/1586/3/1/2551633/1.html">　逃生工具仍屬鐵達尼時代</option>
+<option value="http://www2.news.sina.com.hk/news/1586/3/1/2551906/1.html">　法夫救妻 真實「傑克與露絲」</option>
+<option value="http://www2.news.sina.com.hk/news/1586/3/1/2551907/1.html">　協和號邪事一籮籮</option>
+</optgroup><optgroup label=" 各報頭條 ">
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551912/1.html">[東方] 女教師錯愛賤警 (9相片)</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551911/1.html">[東方] 舉報如意「狼」君免害人</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551910/1.html">[東方] 議員籲事主驗傷留證據</option>
+<option value="/news/2/1/1/2552544/1.html">[明報] 環保組織擔心工程趕尾班車</option>
+<option value="/news/2/1/1/2552534/1.html">[明報] 澳門年內發布PM2.5</option>
+<option value="/news/2/1/1/2552533/1.html">[明報] 民陣譴責警方大量拘示威者</option>
+<option value="/news/2/1/1/2552536/1.html">[星島] 小欖醫院四男病人染諾如病毒</option>
+<option value="/news/2/1/1/2552525/1.html">[星島] 38歲男子涉殺父被暫控謀殺</option>
+<option value="/news/2/1/1/2552467/1.html">[星島] 特首選舉鄉議局暫不表態</option>
+</optgroup>
+<optgroup label=" 社評 ">
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551900/1.html">[東方] 阿頭缺乏靈魂  賤警為禍人間</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551913/1.html">[東方] 堵塞登記漏洞  最怕矯枉過正</option>
+<option value="/news/2/1/1/2551653/1.html">[明報] 政策承諾須兌現  參選人勿口輕輕</option>
+<option value="/news/2/1/1/2551866/1.html">[星島] 選民登記防假　兼顧投票便利</option>
+</optgroup>
+<optgroup label=" 東方 ">
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551909/1.html">華使館冷漠 脫險港人轟中國之恥</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551908/1.html">駛近岸邊船長晒命肇禍</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551907/1.html">協和號邪事一籮籮</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551906/1.html">法夫救妻 真實「傑克與露絲」</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551905/1.html">船員自誇「英雄」救數百人</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551904/1.html">山寨奶粉借屍還魂 (4相片)</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551903/1.html">買原裝行貨認清港代理資料</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551902/1.html">國產信譽破產內地人湧港搶購</option>
+<option value="http://www2.news.sina.com.hk/news/2/1/1/2551901/1.html">換氣仍超標立會再排毒</option>
+</optgroup>
+<optgroup label=" 明報 ">
+<option value="/news/2/1/1/2551750/1.html">鮑魚黨幕後老闆起底</option>
+<option value="/news/2/1/1/2551749/1.html">亂指患嚴重腎衰竭 哄婆婆購2萬藥材</option>
+<option value="/news/2/1/1/2551748/1.html">海味店投訴增34％ 逾八成騙內地客</option>
+<option value="/news/2/1/1/2551747/1.html">平板電腦投訴增 維修貴過新機</option>
+<option value="/news/2/1/1/2551746/1.html">3款電蒸籠過熱易灼傷</option>
+<option value="/news/2/1/1/2551745/1.html">劉皇發上周蒐鄉局提名表</option>
+<option value="/news/2/1/1/2551744/1.html">林鄭拒回應唐以和為貴論</option>
+<option value="/news/2/1/1/2551743/1.html">梁卓偉：選後即協調 防現兩權力中心</option>
+<option value="/news/2/1/1/2551742/1.html">市民專用氧氣罩三級火救人</option>
+<option value="/news/2/1/1/2551741/1.html">北角洗衣店起火 百人疏散</option>
+<option value="/news/2/1/1/2551740/1.html">市面防煙面罩無標準可依</option>
+<option value="/news/2/1/1/2551739/1.html">走火三寶 手機門匙濕毛巾</option>
+<option value="/news/2/1/1/2551738/1.html">千萬購路軌兩用車  備高鐵隧道救火</option>
+<option value="/news/2/1/1/2551731/1.html">法團涉召30惡漢圍居民</option>
+<option value="/news/2/1/1/2551730/1.html">防種票諮詢 沒處理內地港人投票</option>
+<option value="/news/2/1/1/2551729/1.html">Mini Cooper惹火</option>
+<option value="/news/2/1/1/2551728/1.html">港首幢「零碳」建築</option>
+<option value="/news/2/1/1/2551727/1.html">誤認假指紋ｅ道機停用</option>
+<option value="/news/2/1/1/2551726/1.html">9歲女感冒上學昏迷</option>
+<option value="/news/2/1/1/2551725/1.html">萬人聯署促更新空氣指標</option>
+<option value="/news/2/1/1/2551724/1.html">立會空氣仍超標 須再換氣</option>
+<option value="/news/2/1/1/2551723/1.html">年宵大賣「唐梁概念」</option>
+<option value="/news/2/1/1/2551722/1.html">供應減少 桃花貴200元</option>
+<option value="/news/2/1/1/2551721/1.html">變形金剛畫師 製機械龍賀歲</option>
+<option value="/news/2/1/1/2551720/1.html">青年自稱拾iPhone變賣</option>
+<option value="/news/2/1/1/2551719/1.html">夫婦涉棄6歲女被捕</option>
+<option value="/news/2/1/1/2551718/1.html">貨車「隔山打牛」撞傷交警</option>
+<option value="/news/2/1/1/2551717/1.html">黃健靈涉吞公款今開審</option>
+<option value="/news/2/1/1/2551716/1.html">黃成智促人民力量公開影片</option>
+<option value="/news/2/1/1/2551715/1.html">幼園校長吞員工飯錢</option>
+<option value="/news/2/1/1/2551714/1.html">停車熄匙首天零檢控</option>
+<option value="/news/2/1/1/2551713/1.html">明報母公司世界華文媒體</option>
+<option value="/news/2/1/1/2551712/1.html">遭醉住客踢傷  保安獲賠29萬</option>
+<option value="/news/2/1/1/2551711/1.html">3超市4蔬果殘留農藥</option>
+<option value="/news/2/1/1/2551710/1.html">港進入流感高峰期</option>
+<option value="/news/2/1/1/2551709/1.html">轉售家計會避孕丸 綜援婦詐騙囚半年</option>
+<option value="/news/2/1/1/2551708/1.html">住老人院被收公屋  七旬中風婦提覆核</option>
+<option value="/news/2/1/1/2551707/1.html">非持續住3個月即屬濫用</option>
+<option value="/news/2/1/1/2551706/1.html">已逝親屬身分申領</option>
+<option value="/news/2/1/1/2551705/1.html">《爽報》陶傑3文章 報評會列淫褻不雅</option>
+<option value="/news/2/1/1/2551704/1.html">拘藏毒3人    最小16歲</option>
+<option value="/news/2/1/1/2551703/1.html">義工敲碎中轉屋冷漠</option>
+<option value="/news/2/1/1/2551702/1.html">內地童吃點心麵 東鐵爆中港罵戰</option>
+<option value="/news/2/1/1/2551701/1.html">爛賭男笠膠袋跳樓亡</option>
+<option value="/news/2/1/1/2551700/1.html">敗選人盼減呈請保證金</option>
+<option value="/news/2/1/1/2551698/1.html">G.O.D.任影唔嬲</option>
+<option value="/news/2/1/1/2551697/1.html">Greg So送曲奇 惹退伍症聯想</option>
+<option value="/news/2/1/1/2551696/1.html">發展機遇辦解散</option>
+<option value="/news/2/1/1/2551695/1.html">卿姐諷小圈子 民建聯窒到應</option>
+<option value="/news/2/1/1/2551694/1.html">林依麗追2000萬養育費</option>
+<option value="/news/2/1/1/2551693/1.html">林瑞麟訪劫後映秀</option>
+</optgroup>
+<optgroup label=" 星島 ">
+<option value="/news/2/1/1/2551838/1.html">發展局研設九龍東辦事處</option>
+<option value="/news/2/1/1/2551837/1.html">高尿酸痛風症藥丸回收</option>
+<option value="/news/2/1/1/2551836/1.html">地址不更新 投票或被罰</option>
+<option value="/news/2/1/1/2551835/1.html">梁卓偉：不會現兩權力核心</option>
+<option value="/news/2/1/1/2551834/1.html">打人事件 民主黨擬向立會投訴</option>
+<option value="/news/2/1/1/2551833/1.html">劏遊客新招：看病逼購貴藥</option>
+<option value="/news/2/1/1/2551832/1.html">林依麗向兩子生父追生活費二千萬</option>
+<option value="/news/2/1/1/2551831/1.html">平板電腦維修費貴過新機</option>
+<option value="/news/2/1/1/2551830/1.html">鄉議局30票擬提名唐英年</option>
+<option value="/news/2/1/1/2551829/1.html">北角三級火 煙困百住客</option>
+<option value="/news/2/1/1/2551828/1.html">年宵今開鑼 桃花貴兩成</option>
+<option value="/news/2/1/1/2551827/1.html">兩成蔬菜含至少四種殘餘農藥</option>
+<option value="/news/2/1/1/2551826/1.html">政府毋須巨資購何東花園</option>
+<option value="/news/2/1/1/2551825/1.html">麗昌奪命火五消防紀律處分</option>
+</optgroup>
+<optgroup label=" 更多 ">
+<option value="/nw/main/finance.html">財經</option>
+<option value="/nw/main/international.html">國際</option>
+<option value="/nw/china.html">中國</option>
+<option value="/nw/main/entertainment.html">娛樂</option>
+<option value="/nw/main/sports.html">體育</option>
+<option value="/nw/main/supp.html">副刊</option>
+<option value="/nw/special.html">奇聞軼事</option>
+</optgroup></select>
+
+
+</p>
+<div class="right contentPageNewsLogo"><a href="http://www.mingpao.com" target="_blank"><img src="http://simg.sina.com.hk/images/nwProvider.20110615/mingpao.gif" border="0"/></a></div>
+<p class="clearboth"/>
+</div>
+
+
+
+</div></body></html>

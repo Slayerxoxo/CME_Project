@@ -1,0 +1,5 @@
+<html><body><div><div class="Al_12" id="cotent_idd">&#13;
+<p class="ad_in_content"/>&#13;
+<p>1月17日消息，据科技网站Electronista报道，微软之前声称，Windows 8 PC最新引入的UEFI安全启动功能不会禁止安装运行Linux，但基于ARM芯片的Windows 8设备可能就不是这样了。</p>  <p><br clear="all"/><img alt="微软:Win8 ARM设备将无法安装运行Linux " align="no" src="http://2f.zol-img.com.cn/product/79/623/ceyu9BTChVuo.jpg"/><br/>微软:<a href="http://win8.zol.com.cn/" class="hui14_line"><font>Win8</font></a> ARM设备将无法安装运行Linux(图片来自Electronista)</p><p>微软本周发布了一份Windows 8的硬件认证文件，其中一项关于Windows 8 UEFI安全启动功能的说明这样描述道：“在非ARM系统上，可通过固件设置提供禁用安全启动（Secure Boot）的服务，用户有权通过固件设置禁用安全启动。ARM系统不允许禁用安全启动”。</p>  <p>也就是说，在非ARM系统上，可以禁用安全启动以安装其他系统，但是Windows 8 ARM设备却不能。这意味着基于ARM芯片的Windows 8设备将不能安装并运行任何第三方<a href="http://detail.zol.com.cn/os_index/subcate121_list_1.html" class="hui14_line"><font>操作系统</font></a>，包括Linux。</p>  <p>    对此，微软回应称：“我们当前无法回答这一问题，当前我们没有更多消息和大家分享。” </p></div>&#13;
+&#13;
+</div></body></html>

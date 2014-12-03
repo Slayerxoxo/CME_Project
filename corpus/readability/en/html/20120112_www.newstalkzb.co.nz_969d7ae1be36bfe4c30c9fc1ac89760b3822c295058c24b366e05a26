@@ -1,0 +1,43 @@
+<html><body><div><div id="mos-poll02" class="mos-contentbin-solid colspan1 mos-poll">
+                            <p class="mos-contentbin-header clearfix">
+                                <h2> The Labour leadership Results</h2>	
+                            </p>
+                            <div class="mos-contentbin-body clearfix">
+                                <div class="mos-contentbin-bodylayout-vert clearfix">
+                                    
+                                    <div class="mos-binbody-entry clearfix first">
+                                        <div class="mos-binentry-body">
+                                            <h3>Are you happy with who's been chosen to lead the Labour Party?</h3>
+                                            <p class="mos-entry-summary"/>
+
+                                            <ul id="pollresaultsChart" class="mos-results-chart clearfix">
+                                                <li><span class="mos-poll-answer">Yes</span> <span class="mos-poll-bar"><span class="mos-poll-barfill">
+                                                    <img src="/home/coraline/Documents/Corpus/readability/corpus/en/html/images/poll-bar-fill.png"/></span></span> <span class="mos-poll-percent">60%</span></li>
+                                            </ul>
+                                            
+                                            <p class="mos-poll-resultTotal"><label>Total:</label> <span id="polltotalvotes" class="mos-poll-number">0</span> votes</p>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                   
+
+
+
+
+
+                    
+                
+
+
+
+                
+                 
+
+
+
+
+</div></body></html>

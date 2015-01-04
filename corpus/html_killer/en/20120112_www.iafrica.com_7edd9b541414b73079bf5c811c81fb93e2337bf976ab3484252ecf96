@@ -1,0 +1,5 @@
+<html>
+<head><meta http-equiv="content-type" content="text/html; charset=UTF-8" /></head><body>
+<h><p>'); a.document.write(''); a.document.write(''); a.document.write(''); a.document.write(''); a.document.write(document.getElementById('printImage').innerHTML); a.document.write(document.getElementById('headPrint').innerHTML); a.document.write(document.getElementById('articleBodyPrint').innerHTML); a.document.write('Copyright 2002-2010 iafrica.com, a division of Primedia Online* - </p>
+<p>a Primedia company'); a.document.write(''); a.document.write('</p>
+</body></html>

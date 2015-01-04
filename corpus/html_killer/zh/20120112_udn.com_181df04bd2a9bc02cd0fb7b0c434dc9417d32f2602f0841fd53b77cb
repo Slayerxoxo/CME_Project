@@ -1,0 +1,4 @@
+<html>
+<head><meta http-equiv="content-type" content="text/html; charset=UTF-8" /></head><body>
+<h>最麻吉的口袋媒體，最適合手機瀏覽的網站', '手機在我手，新聞跟著走　提供您最豐富的新聞資訊！', '捷運族注意！每日新鮮事，盡在！', '快按讚加入，udn寶寶陪你看新聞！', '「讚」出來！加入，看看網友怎麼說！', '非「讚」不可！歡迎加入，新聞你HOLD住！', '報紙的數位閱讀，PC+iPad版一次擁有 ！', 'udn線上電子書展，揪甘心大回饋！超殺折扣、獨家好禮，龍底加！', '花現鬼太郎在udn個人出版，全館消費滿額送特展門票', '買電子書、雜誌和報紙，抽平板電腦、送購物金、送展覽門票');Id = Math.floor(Math.random()*Titles.length);document.write(""); </b> 【2012/01/12 聯合晚報】@ http://udn.com/</p>
+</body></html>

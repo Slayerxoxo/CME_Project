@@ -1,0 +1,4 @@
+<html>
+<head><meta http-equiv="content-type" content="text/html; charset=UTF-8" /></head><body>
+<h>' + h1 + '</h>'); $('.content_tools:first').css('background','none'); $('.content_tools:first').css('height','30px'); /* Video Check script fallback - 28112011 */ /* var videoCheck = $('meta[name="DC.type"]'); if (videoCheck.attr('content') == 'Moving Picture') { $('#col1 h1').after(''); var xmlDoc = $.ajax({ url:"/news/2012-01-18/counterfeit-drugs-threaten-malaria-control-efforts/3779138/mediarss.xml?site=newcastle", context: document.body, success: function(data){ var videoUrl = $(data).find('*[type="video/x-flv"]'); videoUrl = videoUrl.attr('url'); //	play_video(videoUrl,'','media_main',700,410,true); } }); } */ });  <body id="stories" class="stories paletteC"> </p>
+</body></html>

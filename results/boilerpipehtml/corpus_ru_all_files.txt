@@ -1,0 +1,2 @@
+file	F	P	R	F.tag	P.tag	R.tag	TP	FP	FN	TP.tag	FP.tag	FN.tag
+total	56.52	47.07	70.74	0.00	0.00	0.00	51059	57427	21120	0	1475	2035
